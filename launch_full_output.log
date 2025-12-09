@@ -1,0 +1,297 @@
+[INFO] [launch]: All log files can be found below /home/user/.ros/log/2025-12-06-11-19-23-842454-2_xterm-9012
+[INFO] [launch]: Default logging verbosity is set to INFO
+[INFO] [reasoning_node-1]: process started with pid [9014]
+[INFO] [autonomous_navigator-2]: process started with pid [9016]
+[INFO] [explanation_node-3]: process started with pid [9018]
+[reasoning_node-1] [0m[INFO] [1765019965.316402466] [reasoning_node]: ReasoningNode (updated) initialized (LiDAR + IMU fusion).[0m
+[explanation_node-3] [0m[INFO] [1765019967.208302584] [explanation_node]: ExplanationNode (OpenAI via HF Router) initialized (model=deepseek-ai/DeepSeek-V3.2-Exp:novita) listening on /reasoning_event[0m
+[reasoning_node-1] [0m[INFO] [1765019970.943520712] [reasoning_node]: [PERCEPTION] path_stable front_distance=0.73 pitch=-0.00 roll=-0.00 edge_dir=right[0m
+[reasoning_node-1] [0m[INFO] [1765019970.945098109] [reasoning_node]: [STATS] reasoning_events=1 (edge=0, stable=1, unstable=0)[0m
+[reasoning_node-1] [0m[INFO] [1765019971.059191119] [reasoning_node]: [PERCEPTION] path_stable front_distance=0.73 pitch=-0.00 roll=0.00 edge_dir=right[0m
+[reasoning_node-1] [0m[INFO] [1765019971.059780669] [reasoning_node]: [STATS] reasoning_events=2 (edge=0, stable=2, unstable=0)[0m
+[reasoning_node-1] [0m[INFO] [1765019971.180137488] [reasoning_node]: [PERCEPTION] path_stable front_distance=0.72 pitch=-0.00 roll=0.00 edge_dir=right[0m
+[reasoning_node-1] [0m[INFO] [1765019971.180768015] [reasoning_node]: [STATS] reasoning_events=3 (edge=0, stable=3, unstable=0)[0m
+[reasoning_node-1] [0m[INFO] [1765019971.292040500] [reasoning_node]: [PERCEPTION] path_stable front_distance=0.71 pitch=-0.00 roll=0.00 edge_dir=right[0m
+[reasoning_node-1] [0m[INFO] [1765019971.292432513] [reasoning_node]: [STATS] reasoning_events=4 (edge=0, stable=4, unstable=0)[0m
+[reasoning_node-1] [0m[INFO] [1765019971.392795355] [reasoning_node]: [PERCEPTION] path_stable front_distance=0.70 pitch=-0.00 roll=0.00 edge_dir=right[0m
+[reasoning_node-1] [0m[INFO] [1765019971.393358636] [reasoning_node]: [STATS] reasoning_events=5 (edge=0, stable=5, unstable=0)[0m
+[reasoning_node-1] [0m[INFO] [1765019971.483729480] [reasoning_node]: [PERCEPTION] path_stable front_distance=0.70 pitch=-0.00 roll=0.00 edge_dir=right[0m
+[reasoning_node-1] [0m[INFO] [1765019971.484369180] [reasoning_node]: [STATS] reasoning_events=6 (edge=0, stable=6, unstable=0)[0m
+[reasoning_node-1] [0m[INFO] [1765019971.581209390] [reasoning_node]: [PERCEPTION] path_stable front_distance=0.69 pitch=-0.00 roll=0.00 edge_dir=right[0m
+[reasoning_node-1] [0m[INFO] [1765019971.581579997] [reasoning_node]: [STATS] reasoning_events=7 (edge=0, stable=7, unstable=0)[0m
+[reasoning_node-1] [0m[INFO] [1765019971.710702435] [reasoning_node]: [PERCEPTION] path_stable front_distance=0.68 pitch=-0.00 roll=0.00 edge_dir=right[0m
+[reasoning_node-1] [0m[INFO] [1765019971.713469106] [reasoning_node]: [STATS] reasoning_events=8 (edge=0, stable=8, unstable=0)[0m
+[reasoning_node-1] [0m[INFO] [1765019971.749415359] [reasoning_node]: [PERCEPTION] path_stable front_distance=0.68 pitch=-0.00 roll=-0.00 edge_dir=right[0m
+[reasoning_node-1] [0m[INFO] [1765019971.750044817] [reasoning_node]: [STATS] reasoning_events=9 (edge=0, stable=9, unstable=0)[0m
+[reasoning_node-1] [0m[INFO] [1765019971.814355160] [reasoning_node]: [PERCEPTION] path_stable front_distance=0.67 pitch=-0.00 roll=-0.00 edge_dir=right[0m
+[reasoning_node-1] [0m[INFO] [1765019971.814802796] [reasoning_node]: [STATS] reasoning_events=10 (edge=0, stable=10, unstable=0)[0m
+[reasoning_node-1] [0m[INFO] [1765019971.954291523] [reasoning_node]: [PERCEPTION] path_stable front_distance=0.66 pitch=-0.00 roll=0.00 edge_dir=right[0m
+[reasoning_node-1] [0m[INFO] [1765019971.954888746] [reasoning_node]: [STATS] reasoning_events=11 (edge=0, stable=11, unstable=0)[0m
+[reasoning_node-1] [0m[INFO] [1765019972.074403959] [reasoning_node]: [PERCEPTION] path_stable front_distance=0.66 pitch=-0.00 roll=0.00 edge_dir=right[0m
+[reasoning_node-1] [0m[INFO] [1765019972.075013780] [reasoning_node]: [STATS] reasoning_events=12 (edge=0, stable=12, unstable=0)[0m
+[reasoning_node-1] [0m[INFO] [1765019972.191924289] [reasoning_node]: [PERCEPTION] path_stable front_distance=0.65 pitch=-0.00 roll=0.00 edge_dir=right[0m
+[reasoning_node-1] [0m[INFO] [1765019972.192538274] [reasoning_node]: [STATS] reasoning_events=13 (edge=0, stable=13, unstable=0)[0m
+[reasoning_node-1] [0m[INFO] [1765019972.297657484] [reasoning_node]: [PERCEPTION] path_stable front_distance=0.64 pitch=-0.00 roll=0.00 edge_dir=right[0m
+[reasoning_node-1] [0m[INFO] [1765019972.298444161] [reasoning_node]: [STATS] reasoning_events=14 (edge=0, stable=14, unstable=0)[0m
+[reasoning_node-1] [0m[INFO] [1765019972.448421005] [reasoning_node]: [PERCEPTION] path_stable front_distance=0.63 pitch=-0.00 roll=0.00 edge_dir=right[0m
+[reasoning_node-1] [0m[INFO] [1765019972.449013555] [reasoning_node]: [STATS] reasoning_events=15 (edge=0, stable=15, unstable=0)[0m
+[reasoning_node-1] [0m[INFO] [1765019972.598426105] [reasoning_node]: [PERCEPTION] path_stable front_distance=0.63 pitch=-0.00 roll=0.00 edge_dir=right[0m
+[reasoning_node-1] [0m[INFO] [1765019972.599831781] [reasoning_node]: [STATS] reasoning_events=16 (edge=0, stable=16, unstable=0)[0m
+[reasoning_node-1] [0m[INFO] [1765019972.707605612] [reasoning_node]: [PERCEPTION] path_stable front_distance=0.62 pitch=-0.00 roll=0.00 edge_dir=right[0m
+[reasoning_node-1] [0m[INFO] [1765019972.708160100] [reasoning_node]: [STATS] reasoning_events=17 (edge=0, stable=17, unstable=0)[0m
+[reasoning_node-1] [0m[INFO] [1765019972.816613113] [reasoning_node]: [PERCEPTION] path_stable front_distance=0.61 pitch=-0.00 roll=-0.00 edge_dir=right[0m
+[reasoning_node-1] [0m[INFO] [1765019972.817180685] [reasoning_node]: [STATS] reasoning_events=18 (edge=0, stable=18, unstable=0)[0m
+[reasoning_node-1] [0m[INFO] [1765019972.913476104] [reasoning_node]: [PERCEPTION] path_stable front_distance=0.60 pitch=-0.00 roll=-0.00 edge_dir=right[0m
+[reasoning_node-1] [0m[INFO] [1765019972.914167579] [reasoning_node]: [STATS] reasoning_events=19 (edge=0, stable=19, unstable=0)[0m
+[reasoning_node-1] [0m[INFO] [1765019973.019183367] [reasoning_node]: [PERCEPTION] path_stable front_distance=0.60 pitch=-0.00 roll=-0.00 edge_dir=right[0m
+[reasoning_node-1] [0m[INFO] [1765019973.021546432] [reasoning_node]: [STATS] reasoning_events=20 (edge=0, stable=20, unstable=0)[0m
+[autonomous_navigator-2] [0m[INFO] [1765019973.102888325] [autonomous_navigator]: [STATE] forward -> recovery_reverse[0m
+[autonomous_navigator-2] [0m[INFO] [1765019973.103500320] [autonomous_navigator]: [STATS] obstacle_events=1[0m
+[autonomous_navigator-2] [0m[INFO] [1765019973.105619940] [autonomous_navigator]: [Reason] obstacle_detected action=recovery_reverse front_distance=0.595[0m
+[explanation_node-3] [0m[INFO] [1765019973.107479436] [explanation_node]: [EXPLAIN-REQ] event_id=obstacle_detected_1765019973_103571585 event_type=obstacle_detected model=deepseek-ai/DeepSeek-V3.2-Exp:novita[0m
+[reasoning_node-1] [0m[INFO] [1765019973.123448576] [reasoning_node]: [PERCEPTION] path_stable front_distance=0.59 pitch=-0.00 roll=0.00 edge_dir=right[0m
+[reasoning_node-1] [0m[INFO] [1765019973.124099974] [reasoning_node]: [STATS] reasoning_events=21 (edge=0, stable=21, unstable=0)[0m
+[reasoning_node-1] [0m[INFO] [1765019973.255444226] [reasoning_node]: [PERCEPTION] path_stable front_distance=0.59 pitch=-0.00 roll=0.00 edge_dir=right[0m
+[reasoning_node-1] [0m[INFO] [1765019973.258418097] [reasoning_node]: [STATS] reasoning_events=22 (edge=0, stable=22, unstable=0)[0m
+[reasoning_node-1] [0m[INFO] [1765019973.410959989] [reasoning_node]: [PERCEPTION] path_stable front_distance=0.59 pitch=-0.00 roll=-0.00 edge_dir=right[0m
+[reasoning_node-1] [0m[INFO] [1765019973.411602577] [reasoning_node]: [STATS] reasoning_events=23 (edge=0, stable=23, unstable=0)[0m
+[reasoning_node-1] [0m[INFO] [1765019973.528161984] [reasoning_node]: [PERCEPTION] path_stable front_distance=0.60 pitch=-0.00 roll=0.00 edge_dir=right[0m
+[reasoning_node-1] [0m[INFO] [1765019973.531007343] [reasoning_node]: [STATS] reasoning_events=24 (edge=0, stable=24, unstable=0)[0m
+[reasoning_node-1] [0m[INFO] [1765019973.641248652] [reasoning_node]: [PERCEPTION] path_stable front_distance=0.61 pitch=-0.00 roll=-0.00 edge_dir=right[0m
+[reasoning_node-1] [0m[INFO] [1765019973.641926472] [reasoning_node]: [STATS] reasoning_events=25 (edge=0, stable=25, unstable=0)[0m
+[reasoning_node-1] [0m[INFO] [1765019973.767380545] [reasoning_node]: [PERCEPTION] path_stable front_distance=0.62 pitch=-0.00 roll=-0.00 edge_dir=right[0m
+[reasoning_node-1] [0m[INFO] [1765019973.774326484] [reasoning_node]: [STATS] reasoning_events=26 (edge=0, stable=26, unstable=0)[0m
+[reasoning_node-1] [0m[INFO] [1765019973.935862906] [reasoning_node]: [PERCEPTION] path_stable front_distance=0.63 pitch=-0.00 roll=0.00 edge_dir=right[0m
+[reasoning_node-1] [0m[INFO] [1765019973.936433204] [reasoning_node]: [STATS] reasoning_events=27 (edge=0, stable=27, unstable=0)[0m
+[reasoning_node-1] [0m[INFO] [1765019974.071119739] [reasoning_node]: [PERCEPTION] path_stable front_distance=0.64 pitch=-0.00 roll=0.00 edge_dir=right[0m
+[reasoning_node-1] [0m[INFO] [1765019974.071717591] [reasoning_node]: [STATS] reasoning_events=28 (edge=0, stable=28, unstable=0)[0m
+[autonomous_navigator-2] [33m[WARN] [1765019974.115142867] [autonomous_navigator]: Reverse produced little movement -> switching to rotate and flipping direction[0m
+[autonomous_navigator-2] [0m[INFO] [1765019974.115861770] [autonomous_navigator]: [STATE] recovery_reverse -> recovery_rotate[0m
+[autonomous_navigator-2] [0m[INFO] [1765019974.116709186] [autonomous_navigator]: [Reason] stuck_after_reverse action=rotate[0m
+[explanation_node-3] [0m[INFO] [1765019974.118410869] [explanation_node]: [EXPLAIN-REQ] event_id=stuck_after_reverse_1765019974_115920512 event_type=stuck_after_reverse model=deepseek-ai/DeepSeek-V3.2-Exp:novita[0m
+[reasoning_node-1] [0m[INFO] [1765019974.207954754] [reasoning_node]: [PERCEPTION] path_stable front_distance=0.66 pitch=-0.00 roll=-0.00 edge_dir=right[0m
+[reasoning_node-1] [0m[INFO] [1765019974.214695927] [reasoning_node]: [STATS] reasoning_events=29 (edge=0, stable=29, unstable=0)[0m
+[reasoning_node-1] [0m[INFO] [1765019974.308068415] [reasoning_node]: [PERCEPTION] path_stable front_distance=0.66 pitch=-0.00 roll=0.00 edge_dir=right[0m
+[reasoning_node-1] [0m[INFO] [1765019974.308837995] [reasoning_node]: [STATS] reasoning_events=30 (edge=0, stable=30, unstable=0)[0m
+[reasoning_node-1] [0m[INFO] [1765019974.420862540] [reasoning_node]: [PERCEPTION] path_stable front_distance=0.66 pitch=-0.00 roll=-0.00 edge_dir=right[0m
+[reasoning_node-1] [0m[INFO] [1765019974.423158700] [reasoning_node]: [STATS] reasoning_events=31 (edge=0, stable=31, unstable=0)[0m
+[reasoning_node-1] [0m[INFO] [1765019974.591880424] [reasoning_node]: [PERCEPTION] path_stable front_distance=0.65 pitch=-0.00 roll=-0.00 edge_dir=right[0m
+[reasoning_node-1] [0m[INFO] [1765019974.592696683] [reasoning_node]: [STATS] reasoning_events=32 (edge=0, stable=32, unstable=0)[0m
+[reasoning_node-1] [0m[INFO] [1765019974.698945382] [reasoning_node]: [PERCEPTION] path_stable front_distance=0.65 pitch=-0.00 roll=0.00 edge_dir=right[0m
+[reasoning_node-1] [0m[INFO] [1765019974.699618557] [reasoning_node]: [STATS] reasoning_events=33 (edge=0, stable=33, unstable=0)[0m
+[reasoning_node-1] [0m[INFO] [1765019975.050066079] [reasoning_node]: [PERCEPTION] path_stable front_distance=0.65 pitch=-0.00 roll=-0.00 edge_dir=left[0m
+[reasoning_node-1] [0m[INFO] [1765019975.050650682] [reasoning_node]: [STATS] reasoning_events=34 (edge=0, stable=34, unstable=0)[0m
+[reasoning_node-1] [0m[INFO] [1765019975.199140880] [reasoning_node]: [PERCEPTION] path_stable front_distance=0.66 pitch=-0.00 roll=0.00 edge_dir=left[0m
+[reasoning_node-1] [0m[INFO] [1765019975.199761615] [reasoning_node]: [STATS] reasoning_events=35 (edge=0, stable=35, unstable=0)[0m
+[reasoning_node-1] [0m[INFO] [1765019975.298860637] [reasoning_node]: [PERCEPTION] path_stable front_distance=0.67 pitch=-0.00 roll=0.00 edge_dir=left[0m
+[reasoning_node-1] [0m[INFO] [1765019975.299469106] [reasoning_node]: [STATS] reasoning_events=36 (edge=0, stable=36, unstable=0)[0m
+[reasoning_node-1] [0m[INFO] [1765019975.403662144] [reasoning_node]: [PERCEPTION] path_stable front_distance=0.69 pitch=-0.00 roll=0.00 edge_dir=left[0m
+[reasoning_node-1] [0m[INFO] [1765019975.404303900] [reasoning_node]: [STATS] reasoning_events=37 (edge=0, stable=37, unstable=0)[0m
+[reasoning_node-1] [0m[INFO] [1765019975.527913138] [reasoning_node]: [PERCEPTION] path_stable front_distance=0.72 pitch=-0.00 roll=-0.00 edge_dir=left[0m
+[reasoning_node-1] [0m[INFO] [1765019975.528551030] [reasoning_node]: [STATS] reasoning_events=38 (edge=0, stable=38, unstable=0)[0m
+[reasoning_node-1] [0m[INFO] [1765019975.624650163] [reasoning_node]: [PERCEPTION] path_stable front_distance=0.77 pitch=-0.00 roll=0.00 edge_dir=left[0m
+[reasoning_node-1] [0m[INFO] [1765019975.626139613] [reasoning_node]: [STATS] reasoning_events=39 (edge=0, stable=39, unstable=0)[0m
+[reasoning_node-1] [0m[INFO] [1765019975.759248367] [reasoning_node]: [PERCEPTION] path_stable front_distance=0.84 pitch=-0.00 roll=0.00 edge_dir=left[0m
+[reasoning_node-1] [0m[INFO] [1765019975.760511783] [reasoning_node]: [STATS] reasoning_events=40 (edge=0, stable=40, unstable=0)[0m
+[autonomous_navigator-2] [0m[INFO] [1765019975.777498211] [autonomous_navigator]: [STATS] recovery_successes=1 (obstacle_events=1)[0m
+[autonomous_navigator-2] [0m[INFO] [1765019975.791359987] [autonomous_navigator]: [STATE] recovery_rotate -> forward[0m
+[autonomous_navigator-2] [0m[INFO] [1765019975.795183532] [autonomous_navigator]: [Reason] path_clear action=forward front_distance=0.732[0m
+[explanation_node-3] [0m[INFO] [1765019976.056088759] [explanation_node]: [STATS] explanations=1 last_len=14 avg_len=14.00[0m
+[explanation_node-3] [0m[INFO] [1765019976.056700744] [explanation_node]: [EXPLANATION] event_id=obstacle_detected_1765019973_103571585 text="I turned right to avoid the obstacle detected 0.32 meters ahead while moving forward."[0m
+[explanation_node-3] [0m[INFO] [1765019976.057470592] [explanation_node]: [EXPLAIN-REQ] event_id=path_clear_1765019975_792582630 event_type=path_clear model=deepseek-ai/DeepSeek-V3.2-Exp:novita[0m
+[explanation_node-3] [ASSISTANT] I turned right to avoid the obstacle detected 0.32 meters ahead while moving forward.
+[explanation_node-3] [0m[INFO] [1765019976.167043920] [explanation_node]: [STATS] explanations=2 last_len=21 avg_len=17.50[0m
+[explanation_node-3] [0m[INFO] [1765019976.167769056] [explanation_node]: [EXPLANATION] event_id=stuck_after_reverse_1765019974_115920512 text="I reversed 0.5 meters and turned 45 degrees because I was stuck after detecting an obstacle too close to navigate around."[0m
+[explanation_node-3] [ASSISTANT] I reversed 0.5 meters and turned 45 degrees because I was stuck after detecting an obstacle too close to navigate around.
+[explanation_node-3] [0m[INFO] [1765019977.975969132] [explanation_node]: [STATS] explanations=3 last_len=19 avg_len=18.00[0m
+[explanation_node-3] [0m[INFO] [1765019977.976709104] [explanation_node]: [EXPLANATION] event_id=path_clear_1765019975_792582630 text="I resumed forward movement because the path was clear and the obstacle was now more than 1 meter away."[0m
+[explanation_node-3] [ASSISTANT] I resumed forward movement because the path was clear and the obstacle was now more than 1 meter away.
+[autonomous_navigator-2] [0m[INFO] [1765019979.977669773] [autonomous_navigator]: [STATE] forward -> recovery_reverse[0m
+[autonomous_navigator-2] [0m[INFO] [1765019979.978214688] [autonomous_navigator]: [STATS] obstacle_events=2[0m
+[autonomous_navigator-2] [0m[INFO] [1765019979.979063935] [autonomous_navigator]: [Reason] obstacle_detected action=recovery_reverse front_distance=0.6[0m
+[explanation_node-3] [0m[INFO] [1765019979.979735588] [explanation_node]: [EXPLAIN-REQ] event_id=obstacle_detected_1765019979_978270815 event_type=obstacle_detected model=deepseek-ai/DeepSeek-V3.2-Exp:novita[0m
+[autonomous_navigator-2] [33m[WARN] [1765019981.045307973] [autonomous_navigator]: Reverse produced little movement -> switching to rotate and flipping direction[0m
+[autonomous_navigator-2] [0m[INFO] [1765019981.046009211] [autonomous_navigator]: [STATE] recovery_reverse -> recovery_rotate[0m
+[explanation_node-3] [0m[INFO] [1765019981.048704749] [explanation_node]: [EXPLAIN-REQ] event_id=stuck_after_reverse_1765019981_46138113 event_type=stuck_after_reverse model=deepseek-ai/DeepSeek-V3.2-Exp:novita[0m
+[autonomous_navigator-2] [0m[INFO] [1765019981.054100338] [autonomous_navigator]: [Reason] stuck_after_reverse action=rotate[0m
+[autonomous_navigator-2] [0m[INFO] [1765019981.118784174] [autonomous_navigator]: [STATS] recovery_successes=2 (obstacle_events=2)[0m
+[autonomous_navigator-2] [0m[INFO] [1765019981.119532439] [autonomous_navigator]: [STATE] recovery_rotate -> forward[0m
+[autonomous_navigator-2] [0m[INFO] [1765019981.121313569] [autonomous_navigator]: [Reason] path_clear action=forward front_distance=20.0[0m
+[explanation_node-3] [0m[INFO] [1765019982.069716323] [explanation_node]: [STATS] explanations=4 last_len=17 avg_len=17.75[0m
+[explanation_node-3] [0m[INFO] [1765019982.090772854] [explanation_node]: [EXPLANATION] event_id=obstacle_detected_1765019979_978270815 text="I turned right because my sensors detected an obstacle 0.32 meters ahead while I was moving forward."[0m
+[explanation_node-3] [0m[INFO] [1765019982.091555200] [explanation_node]: [EXPLAIN-REQ] event_id=path_clear_1765019981_119604902 event_type=path_clear model=deepseek-ai/DeepSeek-V3.2-Exp:novita[0m
+[explanation_node-3] [ASSISTANT] I turned right because my sensors detected an obstacle 0.32 meters ahead while I was moving forward.
+[explanation_node-3] [0m[INFO] [1765019983.395146771] [explanation_node]: [STATS] explanations=5 last_len=19 avg_len=18.00[0m
+[explanation_node-3] [0m[INFO] [1765019983.395835081] [explanation_node]: [EXPLANATION] event_id=stuck_after_reverse_1765019981_46138113 text="I reversed 0.5 meters and turned left because I was stuck and needed to find a clear path forward."[0m
+[explanation_node-3] [ASSISTANT] I reversed 0.5 meters and turned left because I was stuck and needed to find a clear path forward.
+[explanation_node-3] [0m[INFO] [1765019984.312117842] [explanation_node]: [STATS] explanations=6 last_len=19 avg_len=18.17[0m
+[explanation_node-3] [0m[INFO] [1765019984.312832121] [explanation_node]: [EXPLANATION] event_id=path_clear_1765019981_119604902 text="I resumed forward movement because the path was clear with no obstacles detected within my 2 meter sensor range."[0m
+[explanation_node-3] [ASSISTANT] I resumed forward movement because the path was clear with no obstacles detected within my 2 meter sensor range.
+[reasoning_node-1] [0m[INFO] [1765020003.827183637] [reasoning_node]: [PERCEPTION] path_stable front_distance=0.89 pitch=-0.00 roll=0.00 edge_dir=left[0m
+[reasoning_node-1] [0m[INFO] [1765020003.827807788] [reasoning_node]: [STATS] reasoning_events=41 (edge=0, stable=41, unstable=0)[0m
+[reasoning_node-1] [0m[INFO] [1765020003.954619819] [reasoning_node]: [PERCEPTION] path_stable front_distance=0.88 pitch=-0.00 roll=-0.00 edge_dir=left[0m
+[reasoning_node-1] [0m[INFO] [1765020003.955230553] [reasoning_node]: [STATS] reasoning_events=42 (edge=0, stable=42, unstable=0)[0m
+[reasoning_node-1] [0m[INFO] [1765020004.052213901] [reasoning_node]: [PERCEPTION] path_stable front_distance=0.87 pitch=-0.00 roll=0.00 edge_dir=left[0m
+[reasoning_node-1] [0m[INFO] [1765020004.052807822] [reasoning_node]: [STATS] reasoning_events=43 (edge=0, stable=43, unstable=0)[0m
+[reasoning_node-1] [0m[INFO] [1765020004.124843433] [reasoning_node]: [PERCEPTION] path_stable front_distance=0.87 pitch=-0.00 roll=0.00 edge_dir=left[0m
+[reasoning_node-1] [0m[INFO] [1765020004.125972237] [reasoning_node]: [STATS] reasoning_events=44 (edge=0, stable=44, unstable=0)[0m
+[reasoning_node-1] [0m[INFO] [1765020004.207216074] [reasoning_node]: [PERCEPTION] path_stable front_distance=0.86 pitch=-0.00 roll=0.00 edge_dir=left[0m
+[reasoning_node-1] [0m[INFO] [1765020004.214582777] [reasoning_node]: [STATS] reasoning_events=45 (edge=0, stable=45, unstable=0)[0m
+[reasoning_node-1] [0m[INFO] [1765020004.337220813] [reasoning_node]: [PERCEPTION] path_stable front_distance=0.86 pitch=-0.00 roll=0.00 edge_dir=left[0m
+[reasoning_node-1] [0m[INFO] [1765020004.337639015] [reasoning_node]: [STATS] reasoning_events=46 (edge=0, stable=46, unstable=0)[0m
+[reasoning_node-1] [0m[INFO] [1765020004.446734345] [reasoning_node]: [PERCEPTION] path_stable front_distance=0.85 pitch=-0.00 roll=0.00 edge_dir=left[0m
+[reasoning_node-1] [0m[INFO] [1765020004.447300798] [reasoning_node]: [STATS] reasoning_events=47 (edge=0, stable=47, unstable=0)[0m
+[reasoning_node-1] [0m[INFO] [1765020004.556082126] [reasoning_node]: [PERCEPTION] path_stable front_distance=0.84 pitch=-0.00 roll=-0.00 edge_dir=left[0m
+[reasoning_node-1] [0m[INFO] [1765020004.556577734] [reasoning_node]: [STATS] reasoning_events=48 (edge=0, stable=48, unstable=0)[0m
+[reasoning_node-1] [0m[INFO] [1765020004.700506001] [reasoning_node]: [PERCEPTION] path_stable front_distance=0.83 pitch=-0.00 roll=-0.00 edge_dir=left[0m
+[reasoning_node-1] [0m[INFO] [1765020004.701125437] [reasoning_node]: [STATS] reasoning_events=49 (edge=0, stable=49, unstable=0)[0m
+[reasoning_node-1] [0m[INFO] [1765020004.801528916] [reasoning_node]: [PERCEPTION] path_stable front_distance=0.83 pitch=-0.00 roll=0.00 edge_dir=left[0m
+[reasoning_node-1] [0m[INFO] [1765020004.805624650] [reasoning_node]: [STATS] reasoning_events=50 (edge=0, stable=50, unstable=0)[0m
+[reasoning_node-1] [0m[INFO] [1765020004.906826059] [reasoning_node]: [PERCEPTION] path_stable front_distance=0.82 pitch=-0.00 roll=0.00 edge_dir=left[0m
+[reasoning_node-1] [0m[INFO] [1765020004.907899268] [reasoning_node]: [STATS] reasoning_events=51 (edge=0, stable=51, unstable=0)[0m
+[reasoning_node-1] [0m[INFO] [1765020005.043179922] [reasoning_node]: [PERCEPTION] path_stable front_distance=0.81 pitch=-0.00 roll=0.00 edge_dir=left[0m
+[reasoning_node-1] [0m[INFO] [1765020005.058162589] [reasoning_node]: [STATS] reasoning_events=52 (edge=0, stable=52, unstable=0)[0m
+[reasoning_node-1] [0m[INFO] [1765020005.198115079] [reasoning_node]: [PERCEPTION] path_stable front_distance=0.80 pitch=-0.00 roll=0.00 edge_dir=left[0m
+[reasoning_node-1] [0m[INFO] [1765020005.199493766] [reasoning_node]: [STATS] reasoning_events=53 (edge=0, stable=53, unstable=0)[0m
+[reasoning_node-1] [0m[INFO] [1765020005.303924510] [reasoning_node]: [PERCEPTION] path_stable front_distance=0.80 pitch=-0.00 roll=-0.00 edge_dir=left[0m
+[reasoning_node-1] [0m[INFO] [1765020005.304980918] [reasoning_node]: [STATS] reasoning_events=54 (edge=0, stable=54, unstable=0)[0m
+[reasoning_node-1] [0m[INFO] [1765020005.399996062] [reasoning_node]: [PERCEPTION] path_stable front_distance=0.79 pitch=-0.00 roll=0.00 edge_dir=left[0m
+[reasoning_node-1] [0m[INFO] [1765020005.404121020] [reasoning_node]: [STATS] reasoning_events=55 (edge=0, stable=55, unstable=0)[0m
+[reasoning_node-1] [0m[INFO] [1765020005.514647439] [reasoning_node]: [PERCEPTION] path_stable front_distance=0.78 pitch=-0.00 roll=0.00 edge_dir=left[0m
+[reasoning_node-1] [0m[INFO] [1765020005.516471054] [reasoning_node]: [STATS] reasoning_events=56 (edge=0, stable=56, unstable=0)[0m
+[reasoning_node-1] [0m[INFO] [1765020005.633151078] [reasoning_node]: [PERCEPTION] path_stable front_distance=0.77 pitch=-0.00 roll=0.00 edge_dir=left[0m
+[reasoning_node-1] [0m[INFO] [1765020005.633630362] [reasoning_node]: [STATS] reasoning_events=57 (edge=0, stable=57, unstable=0)[0m
+[reasoning_node-1] [0m[INFO] [1765020005.757147562] [reasoning_node]: [PERCEPTION] path_stable front_distance=0.77 pitch=-0.00 roll=-0.00 edge_dir=left[0m
+[reasoning_node-1] [0m[INFO] [1765020005.757713552] [reasoning_node]: [STATS] reasoning_events=58 (edge=0, stable=58, unstable=0)[0m
+[reasoning_node-1] [0m[INFO] [1765020005.899616221] [reasoning_node]: [PERCEPTION] path_stable front_distance=0.76 pitch=-0.00 roll=0.00 edge_dir=left[0m
+[reasoning_node-1] [0m[INFO] [1765020005.901639724] [reasoning_node]: [STATS] reasoning_events=59 (edge=0, stable=59, unstable=0)[0m
+[reasoning_node-1] [0m[INFO] [1765020005.983581703] [reasoning_node]: [PERCEPTION] path_stable front_distance=0.75 pitch=-0.00 roll=0.00 edge_dir=left[0m
+[reasoning_node-1] [0m[INFO] [1765020005.984257568] [reasoning_node]: [STATS] reasoning_events=60 (edge=0, stable=60, unstable=0)[0m
+[reasoning_node-1] [0m[INFO] [1765020006.117608346] [reasoning_node]: [PERCEPTION] path_stable front_distance=0.74 pitch=-0.00 roll=0.00 edge_dir=left[0m
+[reasoning_node-1] [0m[INFO] [1765020006.118231527] [reasoning_node]: [STATS] reasoning_events=61 (edge=0, stable=61, unstable=0)[0m
+[reasoning_node-1] [0m[INFO] [1765020006.244473066] [reasoning_node]: [PERCEPTION] path_stable front_distance=0.74 pitch=-0.00 roll=0.00 edge_dir=left[0m
+[reasoning_node-1] [0m[INFO] [1765020006.247851425] [reasoning_node]: [STATS] reasoning_events=62 (edge=0, stable=62, unstable=0)[0m
+[reasoning_node-1] [0m[INFO] [1765020006.351364623] [reasoning_node]: [PERCEPTION] path_stable front_distance=0.73 pitch=-0.00 roll=0.00 edge_dir=left[0m
+[reasoning_node-1] [0m[INFO] [1765020006.351920594] [reasoning_node]: [STATS] reasoning_events=63 (edge=0, stable=63, unstable=0)[0m
+[reasoning_node-1] [0m[INFO] [1765020006.497175431] [reasoning_node]: [PERCEPTION] path_stable front_distance=0.72 pitch=-0.00 roll=0.00 edge_dir=left[0m
+[reasoning_node-1] [0m[INFO] [1765020006.497778048] [reasoning_node]: [STATS] reasoning_events=64 (edge=0, stable=64, unstable=0)[0m
+[reasoning_node-1] [0m[INFO] [1765020006.627853201] [reasoning_node]: [PERCEPTION] path_stable front_distance=0.71 pitch=-0.00 roll=0.00 edge_dir=left[0m
+[reasoning_node-1] [0m[INFO] [1765020006.628469857] [reasoning_node]: [STATS] reasoning_events=65 (edge=0, stable=65, unstable=0)[0m
+[reasoning_node-1] [0m[INFO] [1765020006.723777074] [reasoning_node]: [PERCEPTION] path_stable front_distance=0.70 pitch=-0.00 roll=0.00 edge_dir=left[0m
+[reasoning_node-1] [0m[INFO] [1765020006.724358485] [reasoning_node]: [STATS] reasoning_events=66 (edge=0, stable=66, unstable=0)[0m
+[reasoning_node-1] [0m[INFO] [1765020006.840172980] [reasoning_node]: [PERCEPTION] path_stable front_distance=0.70 pitch=-0.00 roll=0.00 edge_dir=left[0m
+[reasoning_node-1] [0m[INFO] [1765020006.842959636] [reasoning_node]: [STATS] reasoning_events=67 (edge=0, stable=67, unstable=0)[0m
+[reasoning_node-1] [0m[INFO] [1765020006.935827671] [reasoning_node]: [PERCEPTION] path_stable front_distance=0.69 pitch=-0.00 roll=0.00 edge_dir=left[0m
+[reasoning_node-1] [0m[INFO] [1765020006.936320336] [reasoning_node]: [STATS] reasoning_events=68 (edge=0, stable=68, unstable=0)[0m
+[reasoning_node-1] [0m[INFO] [1765020007.048052147] [reasoning_node]: [PERCEPTION] path_stable front_distance=0.68 pitch=-0.00 roll=0.00 edge_dir=left[0m
+[reasoning_node-1] [0m[INFO] [1765020007.048662495] [reasoning_node]: [STATS] reasoning_events=69 (edge=0, stable=69, unstable=0)[0m
+[reasoning_node-1] [0m[INFO] [1765020007.164124423] [reasoning_node]: [PERCEPTION] path_stable front_distance=0.67 pitch=-0.00 roll=-0.00 edge_dir=left[0m
+[reasoning_node-1] [0m[INFO] [1765020007.164717023] [reasoning_node]: [STATS] reasoning_events=70 (edge=0, stable=70, unstable=0)[0m
+[reasoning_node-1] [0m[INFO] [1765020007.300306415] [reasoning_node]: [PERCEPTION] path_stable front_distance=0.67 pitch=-0.00 roll=-0.00 edge_dir=left[0m
+[reasoning_node-1] [0m[INFO] [1765020007.300754168] [reasoning_node]: [STATS] reasoning_events=71 (edge=0, stable=71, unstable=0)[0m
+[reasoning_node-1] [0m[INFO] [1765020007.432361875] [reasoning_node]: [PERCEPTION] path_stable front_distance=0.66 pitch=-0.00 roll=0.00 edge_dir=left[0m
+[reasoning_node-1] [0m[INFO] [1765020007.434010105] [reasoning_node]: [STATS] reasoning_events=72 (edge=0, stable=72, unstable=0)[0m
+[reasoning_node-1] [0m[INFO] [1765020007.526841080] [reasoning_node]: [PERCEPTION] path_stable front_distance=0.65 pitch=-0.00 roll=0.00 edge_dir=left[0m
+[reasoning_node-1] [0m[INFO] [1765020007.527360899] [reasoning_node]: [STATS] reasoning_events=73 (edge=0, stable=73, unstable=0)[0m
+[reasoning_node-1] [0m[INFO] [1765020007.645083936] [reasoning_node]: [PERCEPTION] path_stable front_distance=0.64 pitch=-0.00 roll=-0.00 edge_dir=left[0m
+[reasoning_node-1] [0m[INFO] [1765020007.646304998] [reasoning_node]: [STATS] reasoning_events=74 (edge=0, stable=74, unstable=0)[0m
+[reasoning_node-1] [0m[INFO] [1765020007.743775871] [reasoning_node]: [PERCEPTION] path_stable front_distance=0.64 pitch=-0.00 roll=0.00 edge_dir=left[0m
+[reasoning_node-1] [0m[INFO] [1765020007.744327795] [reasoning_node]: [STATS] reasoning_events=75 (edge=0, stable=75, unstable=0)[0m
+[reasoning_node-1] [0m[INFO] [1765020007.847386710] [reasoning_node]: [PERCEPTION] path_stable front_distance=0.63 pitch=-0.00 roll=0.00 edge_dir=left[0m
+[reasoning_node-1] [0m[INFO] [1765020007.847933075] [reasoning_node]: [STATS] reasoning_events=76 (edge=0, stable=76, unstable=0)[0m
+[reasoning_node-1] [0m[INFO] [1765020007.999942255] [reasoning_node]: [PERCEPTION] path_stable front_distance=0.62 pitch=-0.00 roll=-0.00 edge_dir=left[0m
+[reasoning_node-1] [0m[INFO] [1765020008.001374086] [reasoning_node]: [STATS] reasoning_events=77 (edge=0, stable=77, unstable=0)[0m
+[reasoning_node-1] [0m[INFO] [1765020008.101453293] [reasoning_node]: [PERCEPTION] path_stable front_distance=0.61 pitch=-0.00 roll=-0.00 edge_dir=left[0m
+[reasoning_node-1] [0m[INFO] [1765020008.107151810] [reasoning_node]: [STATS] reasoning_events=78 (edge=0, stable=78, unstable=0)[0m
+[autonomous_navigator-2] [0m[INFO] [1765020008.191225791] [autonomous_navigator]: [STATE] forward -> recovery_reverse[0m
+[autonomous_navigator-2] [0m[INFO] [1765020008.191912026] [autonomous_navigator]: [STATS] obstacle_events=3[0m
+[autonomous_navigator-2] [0m[INFO] [1765020008.193690069] [autonomous_navigator]: [Reason] obstacle_detected action=recovery_reverse front_distance=0.597[0m
+[explanation_node-3] [0m[INFO] [1765020008.193785441] [explanation_node]: [EXPLAIN-REQ] event_id=obstacle_detected_1765020008_191966197 event_type=obstacle_detected model=deepseek-ai/DeepSeek-V3.2-Exp:novita[0m
+[reasoning_node-1] [0m[INFO] [1765020008.227169351] [reasoning_node]: [PERCEPTION] path_stable front_distance=0.61 pitch=-0.00 roll=-0.00 edge_dir=left[0m
+[reasoning_node-1] [0m[INFO] [1765020008.228204627] [reasoning_node]: [STATS] reasoning_events=79 (edge=0, stable=79, unstable=0)[0m
+[reasoning_node-1] [0m[INFO] [1765020008.347469465] [reasoning_node]: [PERCEPTION] path_stable front_distance=0.60 pitch=-0.00 roll=0.00 edge_dir=left[0m
+[reasoning_node-1] [0m[INFO] [1765020008.348622677] [reasoning_node]: [STATS] reasoning_events=80 (edge=0, stable=80, unstable=0)[0m
+[reasoning_node-1] [0m[INFO] [1765020008.508450923] [reasoning_node]: [PERCEPTION] path_stable front_distance=0.61 pitch=-0.00 roll=-0.00 edge_dir=left[0m
+[reasoning_node-1] [0m[INFO] [1765020008.509035125] [reasoning_node]: [STATS] reasoning_events=81 (edge=0, stable=81, unstable=0)[0m
+[reasoning_node-1] [0m[INFO] [1765020008.625079591] [reasoning_node]: [PERCEPTION] path_stable front_distance=0.63 pitch=-0.00 roll=-0.00 edge_dir=left[0m
+[reasoning_node-1] [0m[INFO] [1765020008.628741771] [reasoning_node]: [STATS] reasoning_events=82 (edge=0, stable=82, unstable=0)[0m
+[reasoning_node-1] [0m[INFO] [1765020008.713608645] [reasoning_node]: [PERCEPTION] path_stable front_distance=0.65 pitch=-0.00 roll=0.00 edge_dir=left[0m
+[reasoning_node-1] [0m[INFO] [1765020008.714450716] [reasoning_node]: [STATS] reasoning_events=83 (edge=0, stable=83, unstable=0)[0m
+[reasoning_node-1] [0m[INFO] [1765020008.838055332] [reasoning_node]: [PERCEPTION] path_stable front_distance=0.67 pitch=-0.00 roll=0.00 edge_dir=left[0m
+[reasoning_node-1] [0m[INFO] [1765020008.838721863] [reasoning_node]: [STATS] reasoning_events=84 (edge=0, stable=84, unstable=0)[0m
+[reasoning_node-1] [0m[INFO] [1765020008.949258775] [reasoning_node]: [PERCEPTION] path_stable front_distance=0.69 pitch=-0.00 roll=0.00 edge_dir=left[0m
+[reasoning_node-1] [0m[INFO] [1765020008.952248116] [reasoning_node]: [STATS] reasoning_events=85 (edge=0, stable=85, unstable=0)[0m
+[reasoning_node-1] [0m[INFO] [1765020009.044196627] [reasoning_node]: [PERCEPTION] path_stable front_distance=0.72 pitch=-0.00 roll=0.00 edge_dir=left[0m
+[reasoning_node-1] [0m[INFO] [1765020009.047083238] [reasoning_node]: [STATS] reasoning_events=86 (edge=0, stable=86, unstable=0)[0m
+[autonomous_navigator-2] [33m[WARN] [1765020009.191711520] [autonomous_navigator]: Reverse produced little movement -> switching to rotate and flipping direction[0m
+[reasoning_node-1] [0m[INFO] [1765020009.192001480] [reasoning_node]: [PERCEPTION] path_stable front_distance=0.75 pitch=-0.00 roll=0.00 edge_dir=left[0m
+[autonomous_navigator-2] [0m[INFO] [1765020009.192401109] [autonomous_navigator]: [STATE] recovery_reverse -> recovery_rotate[0m
+[reasoning_node-1] [0m[INFO] [1765020009.192550525] [reasoning_node]: [STATS] reasoning_events=87 (edge=0, stable=87, unstable=0)[0m
+[autonomous_navigator-2] [0m[INFO] [1765020009.192996453] [autonomous_navigator]: [Reason] stuck_after_reverse action=rotate[0m
+[explanation_node-3] [0m[INFO] [1765020009.194533808] [explanation_node]: [EXPLAIN-REQ] event_id=stuck_after_reverse_1765020009_192454224 event_type=stuck_after_reverse model=deepseek-ai/DeepSeek-V3.2-Exp:novita[0m
+[reasoning_node-1] [0m[INFO] [1765020009.314675765] [reasoning_node]: [PERCEPTION] path_stable front_distance=0.78 pitch=-0.00 roll=-0.00 edge_dir=left[0m
+[reasoning_node-1] [0m[INFO] [1765020009.315333013] [reasoning_node]: [STATS] reasoning_events=88 (edge=0, stable=88, unstable=0)[0m
+[reasoning_node-1] [0m[INFO] [1765020009.418341388] [reasoning_node]: [PERCEPTION] path_stable front_distance=0.76 pitch=-0.00 roll=-0.00 edge_dir=left[0m
+[reasoning_node-1] [0m[INFO] [1765020009.423571504] [reasoning_node]: [STATS] reasoning_events=89 (edge=0, stable=89, unstable=0)[0m
+[reasoning_node-1] [0m[INFO] [1765020009.540913449] [reasoning_node]: [PERCEPTION] path_stable front_distance=0.73 pitch=-0.00 roll=0.00 edge_dir=left[0m
+[reasoning_node-1] [0m[INFO] [1765020009.541322166] [reasoning_node]: [STATS] reasoning_events=90 (edge=0, stable=90, unstable=0)[0m
+[reasoning_node-1] [0m[INFO] [1765020009.648645949] [reasoning_node]: [PERCEPTION] path_stable front_distance=0.69 pitch=-0.00 roll=-0.00 edge_dir=left[0m
+[reasoning_node-1] [0m[INFO] [1765020009.649322697] [reasoning_node]: [STATS] reasoning_events=91 (edge=0, stable=91, unstable=0)[0m
+[reasoning_node-1] [0m[INFO] [1765020009.764988791] [reasoning_node]: [PERCEPTION] path_stable front_distance=0.67 pitch=-0.00 roll=-0.00 edge_dir=left[0m
+[reasoning_node-1] [0m[INFO] [1765020009.765568374] [reasoning_node]: [STATS] reasoning_events=92 (edge=0, stable=92, unstable=0)[0m
+[reasoning_node-1] [0m[INFO] [1765020009.908781717] [reasoning_node]: [PERCEPTION] path_stable front_distance=0.66 pitch=-0.00 roll=0.00 edge_dir=left[0m
+[reasoning_node-1] [0m[INFO] [1765020009.909421525] [reasoning_node]: [STATS] reasoning_events=93 (edge=0, stable=93, unstable=0)[0m
+[reasoning_node-1] [0m[INFO] [1765020010.011095693] [reasoning_node]: [PERCEPTION] path_stable front_distance=0.65 pitch=-0.00 roll=-0.00 edge_dir=left[0m
+[reasoning_node-1] [0m[INFO] [1765020010.011719811] [reasoning_node]: [STATS] reasoning_events=94 (edge=0, stable=94, unstable=0)[0m
+[reasoning_node-1] [0m[INFO] [1765020010.144798522] [reasoning_node]: [PERCEPTION] path_stable front_distance=0.64 pitch=-0.00 roll=0.00 edge_dir=left[0m
+[reasoning_node-1] [0m[INFO] [1765020010.145199892] [reasoning_node]: [STATS] reasoning_events=95 (edge=0, stable=95, unstable=0)[0m
+[explanation_node-3] [0m[INFO] [1765020010.332920843] [explanation_node]: [STATS] explanations=7 last_len=18 avg_len=18.14[0m
+[explanation_node-3] [0m[INFO] [1765020010.334811246] [explanation_node]: [EXPLANATION] event_id=obstacle_detected_1765020008_191966197 text="I turned right because my sensors detected an obstacle 0.32 meters directly ahead while I was moving forward."[0m
+[explanation_node-3] [ASSISTANT] I turned right because my sensors detected an obstacle 0.32 meters directly ahead while I was moving forward.
+[reasoning_node-1] [0m[INFO] [1765020010.498595959] [reasoning_node]: [PERCEPTION] path_stable front_distance=0.65 pitch=-0.00 roll=0.00 edge_dir=right[0m
+[reasoning_node-1] [0m[INFO] [1765020010.500149428] [reasoning_node]: [STATS] reasoning_events=96 (edge=0, stable=96, unstable=0)[0m
+[reasoning_node-1] [0m[INFO] [1765020010.600844612] [reasoning_node]: [PERCEPTION] path_stable front_distance=0.65 pitch=-0.00 roll=0.00 edge_dir=right[0m
+[reasoning_node-1] [0m[INFO] [1765020010.601430138] [reasoning_node]: [STATS] reasoning_events=97 (edge=0, stable=97, unstable=0)[0m
+[reasoning_node-1] [0m[INFO] [1765020010.705066611] [reasoning_node]: [PERCEPTION] path_stable front_distance=0.67 pitch=-0.00 roll=0.00 edge_dir=right[0m
+[reasoning_node-1] [0m[INFO] [1765020010.705551523] [reasoning_node]: [STATS] reasoning_events=98 (edge=0, stable=98, unstable=0)[0m
+[reasoning_node-1] [0m[INFO] [1765020010.811289734] [reasoning_node]: [PERCEPTION] path_stable front_distance=0.69 pitch=-0.00 roll=0.00 edge_dir=right[0m
+[reasoning_node-1] [0m[INFO] [1765020010.814394740] [reasoning_node]: [STATS] reasoning_events=99 (edge=0, stable=99, unstable=0)[0m
+[reasoning_node-1] [0m[INFO] [1765020010.940162835] [reasoning_node]: [PERCEPTION] path_stable front_distance=0.71 pitch=-0.00 roll=-0.00 edge_dir=right[0m
+[reasoning_node-1] [0m[INFO] [1765020010.940664755] [reasoning_node]: [STATS] reasoning_events=100 (edge=0, stable=100, unstable=0)[0m
+[reasoning_node-1] [0m[INFO] [1765020011.052900533] [reasoning_node]: [PERCEPTION] path_stable front_distance=0.76 pitch=-0.00 roll=0.00 edge_dir=right[0m
+[reasoning_node-1] [0m[INFO] [1765020011.053979299] [reasoning_node]: [STATS] reasoning_events=101 (edge=0, stable=101, unstable=0)[0m
+[reasoning_node-1] [0m[INFO] [1765020011.161426909] [reasoning_node]: [PERCEPTION] path_stable front_distance=0.83 pitch=-0.00 roll=-0.00 edge_dir=right[0m
+[reasoning_node-1] [0m[INFO] [1765020011.162074382] [reasoning_node]: [STATS] reasoning_events=102 (edge=0, stable=102, unstable=0)[0m
+[autonomous_navigator-2] [0m[INFO] [1765020011.177345845] [autonomous_navigator]: [STATS] recovery_successes=3 (obstacle_events=3)[0m
+[autonomous_navigator-2] [0m[INFO] [1765020011.177986864] [autonomous_navigator]: [STATE] recovery_rotate -> forward[0m
+[autonomous_navigator-2] [0m[INFO] [1765020011.178768871] [autonomous_navigator]: [Reason] path_clear action=forward front_distance=0.723[0m
+[explanation_node-3] [0m[INFO] [1765020011.179779439] [explanation_node]: [EXPLAIN-REQ] event_id=path_clear_1765020011_178043033 event_type=path_clear model=deepseek-ai/DeepSeek-V3.2-Exp:novita[0m
+[reasoning_node-1] [0m[INFO] [1765020011.295839413] [reasoning_node]: [PERCEPTION] path_stable front_distance=0.95 pitch=-0.00 roll=0.00 edge_dir=right[0m
+[reasoning_node-1] [0m[INFO] [1765020011.297348904] [reasoning_node]: [STATS] reasoning_events=103 (edge=0, stable=103, unstable=0)[0m
+[explanation_node-3] [0m[INFO] [1765020011.491738685] [explanation_node]: [STATS] explanations=8 last_len=20 avg_len=18.38[0m
+[explanation_node-3] [0m[INFO] [1765020011.493058596] [explanation_node]: [EXPLANATION] event_id=stuck_after_reverse_1765020009_192454224 text="I reversed 0.5 meters and turned left because I was stuck after detecting an obstacle too close to navigate around."[0m
+[explanation_node-3] [ASSISTANT] I reversed 0.5 meters and turned left because I was stuck after detecting an obstacle too close to navigate around.
+[explanation_node-3] [0m[INFO] [1765020013.066413772] [explanation_node]: [STATS] explanations=9 last_len=16 avg_len=18.11[0m
+[explanation_node-3] [0m[INFO] [1765020013.067521202] [explanation_node]: [EXPLANATION] event_id=path_clear_1765020011_178043033 text="I resumed forward movement because the path ahead was clear of obstacles and safe to proceed."[0m
+[explanation_node-3] [ASSISTANT] I resumed forward movement because the path ahead was clear of obstacles and safe to proceed.
+[autonomous_navigator-2] [0m[INFO] [1765020015.311061526] [autonomous_navigator]: [STATE] forward -> recovery_reverse[0m
+[autonomous_navigator-2] [0m[INFO] [1765020015.311686619] [autonomous_navigator]: [STATS] obstacle_events=4[0m
+[autonomous_navigator-2] [0m[INFO] [1765020015.312559828] [autonomous_navigator]: [Reason] obstacle_detected action=recovery_reverse front_distance=0.598[0m
+[explanation_node-3] [0m[INFO] [1765020015.316375051] [explanation_node]: [EXPLAIN-REQ] event_id=obstacle_detected_1765020015_311745991 event_type=obstacle_detected model=deepseek-ai/DeepSeek-V3.2-Exp:novita[0m
+[autonomous_navigator-2] [33m[WARN] [1765020016.311907718] [autonomous_navigator]: Reverse produced little movement -> switching to rotate and flipping direction[0m
+[autonomous_navigator-2] [0m[INFO] [1765020016.312536230] [autonomous_navigator]: [STATE] recovery_reverse -> recovery_rotate[0m
+[autonomous_navigator-2] [0m[INFO] [1765020016.313313480] [autonomous_navigator]: [Reason] stuck_after_reverse action=rotate[0m
+[explanation_node-3] [0m[INFO] [1765020016.314378055] [explanation_node]: [EXPLAIN-REQ] event_id=stuck_after_reverse_1765020016_312594760 event_type=stuck_after_reverse model=deepseek-ai/DeepSeek-V3.2-Exp:novita[0m
+[autonomous_navigator-2] [0m[INFO] [1765020016.390894769] [autonomous_navigator]: [STATS] recovery_successes=4 (obstacle_events=4)[0m
+[autonomous_navigator-2] [0m[INFO] [1765020016.391547749] [autonomous_navigator]: [STATE] recovery_rotate -> forward[0m
+[autonomous_navigator-2] [0m[INFO] [1765020016.393266732] [autonomous_navigator]: [Reason] path_clear action=forward front_distance=20.0[0m
+[explanation_node-3] [0m[INFO] [1765020017.399425878] [explanation_node]: [STATS] explanations=10 last_len=17 avg_len=18.00[0m
+[explanation_node-3] [0m[INFO] [1765020017.399991585] [explanation_node]: [EXPLANATION] event_id=obstacle_detected_1765020015_311745991 text="I turned right because my sensors detected an obstacle 0.32 meters ahead while I was moving forward."[0m
+[explanation_node-3] [0m[INFO] [1765020017.400892154] [explanation_node]: [EXPLAIN-REQ] event_id=path_clear_1765020016_391606529 event_type=path_clear model=deepseek-ai/DeepSeek-V3.2-Exp:novita[0m
+[explanation_node-3] [ASSISTANT] I turned right because my sensors detected an obstacle 0.32 meters ahead while I was moving forward.
+[explanation_node-3] [0m[INFO] [1765020018.385058742] [explanation_node]: [STATS] explanations=11 last_len=17 avg_len=17.91[0m
+[explanation_node-3] [0m[INFO] [1765020018.385527788] [explanation_node]: [EXPLANATION] event_id=stuck_after_reverse_1765020016_312594760 text="I reversed 0.5 meters and turned 45 degrees because I was stuck after my previous avoidance maneuver."[0m
+[explanation_node-3] [ASSISTANT] I reversed 0.5 meters and turned 45 degrees because I was stuck after my previous avoidance maneuver.
+[explanation_node-3] [0m[INFO] [1765020019.318700081] [explanation_node]: [STATS] explanations=12 last_len=18 avg_len=17.92[0m
+[explanation_node-3] [0m[INFO] [1765020019.319283893] [explanation_node]: [EXPLANATION] event_id=path_clear_1765020016_391606529 text="I resumed forward movement because the path ahead was clear of obstacles beyond my 0.5 meter safety threshold."[0m
+[explanation_node-3] [ASSISTANT] I resumed forward movement because the path ahead was clear of obstacles beyond my 0.5 meter safety threshold.
